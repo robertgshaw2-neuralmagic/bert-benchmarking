@@ -9,5 +9,5 @@ pip install transformers torch sparsezoo datasets
 Benchmark
 
 ```bash
-python3 benchmark.py --sequence-length 386 --dtype fp16
+python3 benchmark.py --sequence-length 384 --dtype fp16
 ```
